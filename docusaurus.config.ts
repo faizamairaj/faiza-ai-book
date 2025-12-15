@@ -16,14 +16,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: "https://zoha-khan123.github.io",
+  url: "https://faizamairaj.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/faiza-ai-book/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "zoha-khan123", // Usually your GitHub org/user name.
+  organizationName: "faizamairaj", // Usually your GitHub org/user name.
   projectName: "faiza-ai-book", // Usually your repo name.
 
   onBrokenLinks: "throw",
@@ -44,7 +44,7 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/Zoha-Khan123/faiza-ai-book/tree/master",
+          editUrl: "https://github.com/faizamairaj/faiza-ai-book/tree/master",
         },
         blog: {
           showReadingTime: true,
@@ -54,7 +54,7 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/Zoha-Khan123/faiza-ai-book/tree/master",
+          editUrl: "https://github.com/faizamairaj/faiza-ai-book/tree/master",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -88,7 +88,7 @@ const config: Config = {
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: "https://github.com/Zoha-Khan123/faiza-ai-book",
+          href: "https://github.com/faizamairaj/faiza-ai-book",
           label: "GitHub",
           position: "right",
         },
